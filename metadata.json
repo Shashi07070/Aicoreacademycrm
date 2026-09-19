@@ -1,0 +1,6 @@
+{
+  "name": "AI CORE ACADEMY",
+  "description": "Comprehensive educational CRM for AI CORE ACADEMY featuring clean minimalist design, secure login vault, student and course directories, fee receipts, 4-state attendance register, timetable scheduler, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

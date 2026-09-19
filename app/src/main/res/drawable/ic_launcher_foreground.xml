@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Graduation Cap Top Diamond -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M54,26 L80,38 L54,50 L28,38 Z" />
+    
+    <!-- Cap Skullcap Underneath -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M38,44 L38,56 C38,62 70,62 70,56 L70,44 L54,51 Z" />
+    
+    <!-- Tassel String and Pendant -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M72,39 L78,54 L81,54 L81,64 L75,64 L75,54 L78,54 Z" />
+
+    <!-- Open Book Pages (Academy/Tuition base) -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M32,66 C40,63 50,65 54,68 C58,65 68,63 76,66 L76,79 C68,76 58,78 54,81 C50,78 40,76 32,79 Z" />
+
+    <!-- Center Book Spine & Accent -->
+    <path
+        android:fillColor="#E11D48"
+        android:pathData="M52.5,67.5 L55.5,67.5 L55.5,82 L52.5,82 Z" />
+
+    <!-- Lock / Security Badge (indicates lock system & CRM security) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,49 A4,4 0 1,0 54,41 A4,4 0 1,0 54,49 Z" />
+</vector>
