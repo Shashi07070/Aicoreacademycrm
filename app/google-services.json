@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532832437038",
+    "project_id": "real-estate-crm-d27b2",
+    "storage_bucket": "real-estate-crm-d27b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532832437038:android:4c531fd00c28482545f0bf",
+        "android_client_info": {
+          "package_name": "com.aistudio.tuitioncrm.qxvkbt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGw0sJZxsWHTjbiJlsRr8lbq_7Wnc_byo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
